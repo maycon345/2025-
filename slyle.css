@@ -1,0 +1,16 @@
+
+
+:root{
+    --primary-colol: #047380:
+    --secunday-color: #3ca6a6:
+    --text-color: #024959;
+    --butto-hover: #012e40;
+    --font-body: "chocolate classical sans", serif;
+    --font-titulo:"Rakkas", Serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-body);
+}
