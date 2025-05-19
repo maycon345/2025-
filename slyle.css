@@ -14,8 +14,19 @@
     box-sizing: border-box;
     font-family: var(--font-body);
 }
-body{
+body{ 
+    
     background-color: var(--background-color);
     color: var(--text-color);
     line-height: 1.6;
+}
+
+h3{
+    margin: 25px;
+}
+p{
+    margin-top: 20px;
+}
+img{
+    max-width: 90%;
 }
